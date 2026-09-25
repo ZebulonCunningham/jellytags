@@ -1111,6 +1111,10 @@ body:has(#user-management-view.active) #tag-filter-wrapper {
   min-width: 0;
 }
 
+.managed-user-selector {
+  margin-bottom: 20px;
+}
+
 .user-tag-panel-header {
   display: flex;
   align-items: flex-start;
